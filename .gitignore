@@ -1,0 +1,7 @@
+*.cpp
+*.hs
+*.java
+*.txt
+
+by_learners
+tests
